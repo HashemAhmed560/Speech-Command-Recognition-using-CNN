@@ -12,7 +12,7 @@ The dataset used for this project contains 23,666 audio samples across 10 differ
 
 ## Instructions for Running the Code<br>
 
-1.*Ensure you have the following dependencies installed:*<br>
+1.Ensure you have the following dependencies installed:<br>
   Python 3.x<br>
   numpy<br>
   librosa<br>
