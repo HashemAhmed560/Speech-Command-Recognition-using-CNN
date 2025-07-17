@@ -24,7 +24,7 @@ The dataset used for this project contains 23,666 audio samples across 10 differ
 
 2.Clone the repository and navigate to the project directory.<br>
 3.Open the Assignment.ipynb Jupyter Notebook file.<br>
-4.download the dataset from Kaggle: https://www.kaggle.com/datasets/neehakurelli/google-speech-commands/data (download only the commands from 0 to 9) and edit the *data_folder* variable with the path where you downlaoded it. <br>
+4.download the dataset from Kaggle: https://www.kaggle.com/datasets/neehakurelli/google-speech-commands/data (download only the commands from 0 to 9) and edit the *data_folder* variable with the path where you downloaded it. <br>
 <br>
 5.Run the cells in the notebook sequentially to load the data, preprocess it, define and train the CNN model, and evaluate its performance on the test set. <br>
 
